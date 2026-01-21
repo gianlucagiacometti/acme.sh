@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
-
 # shellcheck disable=SC2034
 dns_fmdns_info='facileManager DNS API
  API for self-hosted facileManager DNS github.com/WillyXJ/facileManager
